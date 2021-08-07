@@ -178,7 +178,7 @@ class Ui_COUNTPILL(object):
     def retranslateUi(self, COUNTPILL):
         _translate = QtCore.QCoreApplication.translate
         COUNTPILL.setWindowTitle(_translate("COUNTPILL", "COUNTPILL"))
-        self.text_enterlink.setText(_translate("COUNTPILL", "Video (.avi) link:"))
+        self.text_enterlink.setText(_translate("COUNTPILL", "Video (.avi):"))
         self.open.setText(_translate("COUNTPILL", "Browse"))
         self.run.setText(_translate("COUNTPILL", "Run"))
         #self.reset.setText(_translate("COUNTPILL", "Reset"))
