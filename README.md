@@ -124,5 +124,4 @@ pip install -r requirements.txt
 
 ## Usage
 * Direct to the location of project.
-* Open ```Command Promt```
-* Type ```python main.py```
+* Type ```python app.py```
