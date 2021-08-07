@@ -114,7 +114,7 @@ def caculate_pill(BW2):
 
 ## Result
 
-<p align="center"> <img src="images/RESULT.png" width=""> </p>
+<p align="center"> <img src="images/result.png" width=""> </p>
 
 ## Installation
 
