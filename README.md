@@ -1,9 +1,5 @@
 # count-drug-from-local-video
 
-#Result:
-
-![Result](result.png)
-
 ### Image preprocessing
 
 In this program, we will work with digital images. The captured image of the camera is stored as a multi-dimensional array of data mxnx3 which includes 3 matrices with 3 color bands that defines the red (R), green (G) and blue (B) color values stored at pixels’ location in the color plane. In this form, we cannot apply image processing tools yet, but we must convert it into a binary image.
